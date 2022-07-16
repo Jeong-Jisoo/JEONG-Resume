@@ -16,8 +16,8 @@ Capable team-player successful at managing multiple projects and consistently me
 
 ## Education
 
-`Expected July 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
+`Expected July 2022`
 
 - Bachelor of Science in Accounting
 - GPA: 3.82
@@ -26,8 +26,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Certificate in Data Science
 - Programming Language: SQL, Python, R
 
-`2015-2019`
 __LDS Business College__, Salt Lake City, UT
+`2015-2019`
 
 - Associate of Science in Integrated Studies
 - Full academic scholarship with 3.95 GPA
@@ -40,15 +40,15 @@ __LDS Business College__, Salt Lake City, UT
 
 ### Tax Internships
 
-`January 2022 - April 2022`
 __Deloitte__, Salt Lake City, UT
+`January 2022 - April 2022`
 
 - Created 10+ workpapers from taxpayers through excel
 - Prepared 7+ partnership tax returns for clients by using tax software
 - Participated 3 state tax law research project; identify, research, and assess various tax issues while also providing information to seniors and managers
 
-`January 2021 - April 2021`
 __Dixon Hughes Goodman LLP__, High Point, NC
+`January 2021 - April 2021`
 
 - Organized 500+ workpapers from taxpayers; enhanced efficiency of work
 - Led 2 projects with multiple tasks and met deadlines by prioritizing tasks
@@ -56,8 +56,8 @@ __Dixon Hughes Goodman LLP__, High Point, NC
 
 ### Related Experience
 
-`January 2020 - April 2022`
 __Brigham Young University - Idaho__, IBC Accounting System Manager
+`January 2020 - April 2022`
 
 - Reconciled all financial transaction via Workday system for 9 student-run companies with verifying purchases by using 
 organization skill with multiple documents
@@ -65,8 +65,8 @@ organization skill with multiple documents
 - Increased capacity to received more receipts at a time by creating excel submission form
 - Strengthened relations between Accounting TA's and Finance TA's, helping students' processes run more smoothly
 
-`January 2015 - March 2015`
 __L-Tech__, Assistant Inventory Manager
+`January 2015 - March 2015`
 
 - Managed inventory department budget; reported regularly to inventory manager and upper management
 - Oversaw inventory of 1000+ items; kept lead times and inventory turn times to standard
@@ -76,8 +76,8 @@ process
 
 ## Volunteer Experience
 
-`2016-2017`
 __Volunteer Representative__, South Korea
+`2016-2017`
 
 - Served 60+ hours per week, teaching life-improvement lessons in diverse circumstances
 - Executed cohesive lesson plans to teach lifelong lessons to 1000+ people
