@@ -6,8 +6,9 @@ title: Jisoo Jeong's Resume
 Capable team-player successful at managing multiple projects and consistently meeting deadlines. Results-oriented accountant with extensive knowledge of accounting software and processes. Outstanding business communication abilities.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="jeo18001@byui.edu">jeo18001@byui.edu</a>
+| Accounting Major
+| <a href="https://byuidatascience.github.io/development.html">Data Science Certificate Program</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
